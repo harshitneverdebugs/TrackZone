@@ -1,4 +1,4 @@
-# ZoneWatch-YOLOv8n
+# TrackZone
 
 ## Introduction
 
@@ -23,7 +23,7 @@ Human detection is powered by advanced technologies, leveraging the **YOLOv8** f
 -Prepare the YOLOv8 model weights (e.g., yolov8n.pt) for training.
 
 ## Dataset
- Link for the dataset: [Link Text](https://universe.roboflow.com/dave-r7nyf/test_detection_person)
+ Link for the dataset: [Link](https://universe.roboflow.com/dave-r7nyf/test_detection_person)
 The dataset used in this project is managed and preprocessed through **Roboflow**. It contains images with annotations for human detection. The dataset can be downloaded from Roboflow, and the paths are configured within the project. The dataset includes the following:
 
 - **Train Dataset:** Images for training the model.
